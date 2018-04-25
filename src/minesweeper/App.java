@@ -1,4 +1,4 @@
-import minesweeper.Minesweeper;
+package minesweeper;
 
 /**
  * Created by Ireneusz Zagan on 25.04.18, 18:06
